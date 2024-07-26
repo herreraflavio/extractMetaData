@@ -1,6 +1,6 @@
 /node_modules
 localImage/*
-!localImage/
+!localImage/.gitkeep
 /components
 /output
 /backup
